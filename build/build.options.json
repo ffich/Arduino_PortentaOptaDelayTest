@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "arduino:mbed_portenta:envie_m7",
+  "hardwareFolders": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\franc\\Documents\\Arduino\\libraries",
+  "sketchLocation": "D:\\60_Repositories\\50_Offline\\10_Arduino\\20_Test\\10_GoboService\\MillisTest"
+}

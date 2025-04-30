@@ -1,0 +1,25 @@
+D:\60_Repositories\50_Offline\10_Arduino\20_Test\10_GoboService\MillisTest\build\libraries\MRI\core\mri.c.o: \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src\core\mri.c \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/libc.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/mri.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/buffer.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/hex_convert.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/try_catch.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/packet.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/token.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/core.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/context.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/platforms.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/signal.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/semihost.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/cmd_file.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/cmd_common.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/cmd_registers.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/cmd_memory.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/cmd_continue.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/cmd_query.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/cmd_break_watch.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/cmd_step.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/cmd_thread.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/cmd_vcont.h \
+ C:\Users\franc\AppData\Local\Arduino15\packages\arduino\hardware\mbed_portenta\4.2.4\libraries\MRI\src/core/memory.h

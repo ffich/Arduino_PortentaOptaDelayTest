@@ -1,0 +1,1 @@
+arduino-cli compile --fqbn arduino:mbed_portenta:envie_m7 --build-path .\build
